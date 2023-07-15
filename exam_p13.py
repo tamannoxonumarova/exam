@@ -190,15 +190,3 @@ dvdrental.tar  dvdrental.zip
 # Base.metadata.create_all(engine)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
